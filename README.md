@@ -36,7 +36,7 @@
 7. Install [IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use)
 8. Install [GitCli](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ## What are we building?
-Sample Angular Application where building, security testing, and deployment of the application is automated.  
+Sample Angular Application where building, security testing, and deployment of the application is automated.  ..
 
 ## Application Architecture
 ![1](images/2.png)
